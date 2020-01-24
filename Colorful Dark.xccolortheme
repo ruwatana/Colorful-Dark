@@ -85,23 +85,23 @@
 	<key>DVTScrollbarMarkerWarningColor</key>
 	<string>0.937255 0.717647 0.34902 1</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.132444 0.128369 0.124293 1</string>
+	<string>0.121569 0.121569 0.141176 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
-	<string>0.24874 0.242521 0.230084 1</string>
+	<string>0.137255 0.145098 0.168627 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.258298 0.300954 0.355207 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.439215 0.437211 0.317647 1</string>
+	<string>0.317647 0.356863 0.439216 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>1 0.74902 0.498039 1</string>
+		<string>0.9 0.598823 0.448235 1</string>
 		<key>xcode.syntax.character</key>
-		<string>1 0.74902 0.498039 1</string>
+		<string>0.9 0.711765 0.448235 1</string>
 		<key>xcode.syntax.comment</key>
 		<string>0.677035 0.903896 0.450175 1</string>
 		<key>xcode.syntax.comment.doc</key>
@@ -117,7 +117,7 @@
 		<key>xcode.syntax.identifier.class.system</key>
 		<string>0.498039 0.74902 1 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>1 0.74902 0.498039 1</string>
+		<string>0.9 0.598823 0.448235 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
 		<string>0.498039 0.498039 1 1</string>
 		<key>xcode.syntax.identifier.function</key>
@@ -143,7 +143,7 @@
 		<key>xcode.syntax.markup.code</key>
 		<string>1 0.498039 0.498039 1</string>
 		<key>xcode.syntax.number</key>
-		<string>1 0.74902 0.498039 1</string>
+		<string>0.9 0.711765 0.448235 1</string>
 		<key>xcode.syntax.plain</key>
 		<string>1 1 1 0.85</string>
 		<key>xcode.syntax.preprocessor</key>
