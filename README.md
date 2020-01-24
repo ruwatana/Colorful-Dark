@@ -12,5 +12,5 @@ $ cp Colorful\ Dark.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColor
 ```  
 
 ## Screen shots
-![image](https://user-images.githubusercontent.com/19753998/71864322-dcc93d80-3142-11ea-80d8-b65e0a01a972.png)
-![image](https://user-images.githubusercontent.com/19753998/71864449-2580f680-3143-11ea-89fa-ca82f041de4e.png)
+![image](https://user-images.githubusercontent.com/19753998/73039000-c7207b80-3e97-11ea-8b9b-eb0bcae3f07b.png)
+![image](https://user-images.githubusercontent.com/19753998/73038960-a5bf8f80-3e97-11ea-8d61-324357bca9eb.png)
